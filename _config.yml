@@ -19,13 +19,11 @@ description: "Postdoctoral Researcher | AI in Agriculture, Computer Vision, and 
 url: "https://NafiulIslamBD.github.io"
 baseurl: ""
 
-repository: "NafiulIslamBD/nafiul_islam_precision_agriculture_HSTU_CNU_UTK.github.io"
+repository: "NafiulIslamBD/NafiulIslamBD.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
-author:
-  # Biographic information
 author:
   avatar           : "/images/nafiul.png"
   name             : "Md Nafiul Islam"
@@ -143,7 +141,7 @@ facebook:
   app_id                 :
   publisher              :
 og_image                 :  "/images/nafiul.png"
-og_description           :  # Social media default site image description
+og_description           :  "AI in Agriculture | Computer Vision | Precision Livestock Systems"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
