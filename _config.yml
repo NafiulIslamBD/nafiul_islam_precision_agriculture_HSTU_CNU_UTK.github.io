@@ -15,11 +15,11 @@ title_separator: "-"
 name: "Md Nafiul Islam"
 
 description: "Postdoctoral Researcher | AI in Agriculture, Computer Vision, and Data Analytics"
-
 url: "https://NafiulIslamBD.github.io"
-baseurl: ""
+baseurl: "/nafiul_islam_precision_agriculture_HSTU_CNU_UTK.github.io"
 
-repository: "NafiulIslamBD/NafiulIslamBD.github.io"
+repository: "NafiulIslamBD/nafiul_islam_precision_agriculture_HSTU_CNU_UTK.github.io"
+
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
