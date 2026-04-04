@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Md Nafiul Islam"
+title: "Md Nafiul Islam, Ph.D."
 author_profile: true
 ---
 
