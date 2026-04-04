@@ -25,7 +25,7 @@ repository: "NafiulIslamBD/nafiul_islam_precision_agriculture_HSTU_CNU_UTK.githu
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  avatar           : "/images/bio-photo.jpg"
+  avatar           : "bio-photo.jpg"
   name             : "Md Nafiul Islam"
   pronouns         :  
   bio              : "Postdoctoral Research Associate at Texas A&M AgriLife Research specializing in AI, computer vision, and precision agriculture."
