@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-- **Ph.D. in Biosystems Engineering & Soil Science**, University of Tennessee, Knoxville  
+- **Ph.D. in Biosystems Engineering**, University of Tennessee, Knoxville  
 - **M.S. in Agricultural Engineering**, Chungnam National University, South Korea  
 - **B.S. in Agricultural Engineering**, Hajee Mohammad Danesh Science and Technology University  
 
