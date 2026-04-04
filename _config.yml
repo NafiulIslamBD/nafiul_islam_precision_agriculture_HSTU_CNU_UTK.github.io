@@ -140,7 +140,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  "/images/Picture1.png"
+og_image                 :  
 og_description           :  "AI in Agriculture | Computer Vision | Precision Livestock Systems"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
