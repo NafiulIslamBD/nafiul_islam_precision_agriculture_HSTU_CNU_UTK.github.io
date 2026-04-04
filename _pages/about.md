@@ -31,5 +31,5 @@ I am a Postdoctoral Research Associate at Texas A&M AgriLife Research, working i
 ---
 
 ## Contact
-📧 Email: your_email@tamu.edu  
-🌐 Google Scholar: https://scholar.google.com/citations?user=Lbz_9NUAAAAJ  
+📧 Email: mdnafiul.islam@ag.tamu.edu 
+🌐 Google Scholar: https://scholar.google.com/citations?user=IBqEaOYAAAAJ&hl=en
