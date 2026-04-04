@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,56 +9,70 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Education
+- **Ph.D. in Biosystems Engineering & Soil Science**, University of Tennessee, Knoxville  
+- **M.S. in Agricultural Engineering**, Chungnam National University, South Korea  
+- **B.S. in Agricultural Engineering**, Hajee Mohammad Danesh Science and Technology University  
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+---
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Professional Experience
+- **Postdoctoral Research Associate**  
+  Texas A&M AgriLife Research, College Station, TX  
+  *Group of AI in Agriculture (GAIA)*  
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- **Graduate Research Assistant**  
+  University of Tennessee, Knoxville  
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
+- **Research Assistant**  
+  Chungnam National University, South Korea  
+
+---
+
+## Research Expertise
+- Artificial Intelligence in Agriculture  
+- Computer Vision for Livestock Monitoring  
+- Precision Livestock Farming  
+- Machine Learning & Deep Learning  
+- Geospatial Data Analysis (GPS, NDVI)  
+- Multimodal Data Integration  
+
+---
+
+## Technical Skills
+- **Programming:** Python, MATLAB  
+- **AI/ML:** PyTorch, TensorFlow, Scikit-learn  
+- **Computer Vision:** OpenCV, YOLO, Image Processing  
+- **Geospatial:** QGIS, ArcGIS, Raster & GPS Analysis  
+- **Data Analysis:** Pandas, NumPy, Data Visualization  
+
+---
+
+## Publications
+<ul>
+{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}
+</ul>
+
+---
+
+## Conference Presentations
+<ul>
+{% for post in site.publications reversed %}
+  {% if post.category == "conferences" %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+  {% endif %}
+{% endfor %}
+</ul>
+
+---
+
+## Awards & Honors
+- Outstanding Graduate Student Award, International Conference on Precision Agriculture (ICPA), 2024  
+
+---
+
+## Professional Activities
+- Reviewer for peer-reviewed journals in agricultural engineering and AI  
+- Member of professional societies in precision agriculture and biosystems engineering  
