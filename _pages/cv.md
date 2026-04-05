@@ -115,7 +115,8 @@ Chungnam National University, South Korea
 ---
 
 ## Grants & Funding
-- AFRI Postdoctoral Fellowship (Submitted), USDA-NIFA, 2026  
+- Research Equipment Grant (Submitted), April, 2026
+  Office of the Vice Chancellor for Research, The Texas A&M University System (A&M System)  
 
 ---
 
