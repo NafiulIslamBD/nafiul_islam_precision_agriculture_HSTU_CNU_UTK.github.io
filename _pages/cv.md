@@ -10,9 +10,9 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-- **Ph.D. in Biosystems Engineering**, University of Tennessee, Knoxville  
-- **M.S. in Agricultural Engineering**, Chungnam National University, South Korea  
-- **B.S. in Agricultural Engineering**, Hajee Mohammad Danesh Science and Technology University  
+- **Ph.D. in Biosystems Engineering**, University of Tennessee, Knoxville, 2025  
+- **M.S. in Agricultural Engineering**, Chungnam National University, South Korea, 2021
+- **B.S. in Agricultural Engineering**, Hajee Mohammad Danesh Science and Technology University, 2017
 
 ---
 
@@ -46,6 +46,11 @@ redirect_from:
 - **Geospatial:** QGIS, ArcGIS, Raster & GPS Analysis  
 - **Data Analysis:** Pandas, NumPy, Data Visualization  
 
+
+
+## Awards & Honors
+- Outstanding Graduate Student Award, International Conference on Precision Agriculture (ICPA), 2024
+
 ---
 
 ## Publications
@@ -67,9 +72,6 @@ redirect_from:
 </ul>
 
 ---
-
-## Awards & Honors
-- Outstanding Graduate Student Award, International Conference on Precision Agriculture (ICPA), 2024  
 
 ---
 
