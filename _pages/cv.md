@@ -53,6 +53,10 @@ redirect_from:
 
 ---
 
+## Professional Activities
+
+---
+
 ## Publications
 <ul>
 {% for post in site.publications reversed %}
@@ -72,9 +76,5 @@ redirect_from:
 </ul>
 
 ---
-
----
-
-## Professional Activities
 - Reviewer for peer-reviewed journals in agricultural engineering and AI  
 - Member of professional societies in precision agriculture and biosystems engineering  
