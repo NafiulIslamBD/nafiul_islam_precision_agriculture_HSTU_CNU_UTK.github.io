@@ -48,8 +48,7 @@ Hajee Mohammad Danesh Science and Technology University, Bangladesh — 2017
 Texas A&M AgriLife Research, College Station, TX  
 *Group of AI in Agriculture (GAIA)*  
 - Develop AI-driven systems for livestock monitoring using computer vision and sensor data  
-- Design multimodal data fusion pipelines integrating vision, GPS, and environmental data  
-- Lead research on behavior detection (drinking, respiration, body condition scoring)  
+- Design multimodal data fusion pipelines integrating vision, GPS, and environmental data   
 - Collaborate with interdisciplinary teams across engineering, animal science, and data science  
 
 ### Graduate Research Assistant  
@@ -86,8 +85,8 @@ Chungnam National University, South Korea
 
 ## Research Projects
 
-### AI-Based Cattle Body Condition Scoring (BCS)
-- Developed computer vision pipeline using YOLO and segmentation models  
+### AI-Based Livestock Health and Welfare Detection
+- Developed the computer vision pipeline using YOLO and segmentation models  
 - Extracted anatomical features (spine, tail-head angle, fat deposition)  
 - Applied machine learning models (Random Forest, SVM) for classification  
 - Achieved high agreement with expert scoring  
@@ -124,8 +123,3 @@ Chungnam National University, South Korea
 ## Professional Activities & Service
 - Reviewer for peer-reviewed journals in agricultural engineering and artificial intelligence  
 - Member of professional societies in precision agriculture and biosystems engineering  
-
----
-
-## References
-Available upon request
