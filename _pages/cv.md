@@ -13,10 +13,6 @@ redirect_from:
 Postdoctoral Research Associate  
 Texas A&M AgriLife Research, College Station, TX  
 
-Email: your.email@tamu.edu  
-Website: https://yourwebsite.com  
-Google Scholar: https://scholar.google.com/  
-
 ---
 
 ## Research Interests
