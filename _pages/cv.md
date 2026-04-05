@@ -90,16 +90,21 @@ Chungnam National University, South Korea
 - Extracted anatomical features (spine, tail-head angle, fat deposition)  
 - Applied machine learning models (Random Forest, SVM) for classification  
 - Achieved high agreement with expert scoring  
-
-### Vision-Based Livestock Behavior Monitoring
 - Developed non-contact methods for detecting drinking and respiration behavior  
-- Applied deep learning and video-based analysis  
-- Designed scalable systems for real-world deployment  
+ 
 
 ### Multimodal Grazing Behavior Analysis
 - Integrated GPS tracking data with forage and NDVI datasets  
 - Developed spatial analysis workflows (Voronoi zones, grid analysis)  
-- Quantified animal movement, grazing patterns, and forage utilization  
+- Quantified animal movement, grazing patterns, and forage utilization
+
+
+### Crop Yield Prediction Using Machine Learning and Multimodal Data
+- Developed predictive models for crop yield using genotype, phenotype, and environmental data  
+- Integrated temporal features such as planting date, heading date, and harvest duration 
+- Applied machine learning and deep learning approaches for yield estimation  
+- Performed feature engineering, variance filtering, and data normalization for high-dimensional datasets  
+- Evaluated model performance using statistical and predictive accuracy metrics
 
 ---
 
