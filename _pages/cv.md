@@ -109,14 +109,12 @@ Chungnam National University, South Korea
 ---
 
 ## Awards & Honors
-- Outstanding Graduate Student Award  
-  International Conference on Precision Agriculture (ICPA), 2024  
+- Outstanding Graduate Student Award, International Conference on Precision Agriculture (ICPA), 2024 (https://www.ispag.org/ICPA/History/16_ICPA)  
 
 ---
 
 ## Grants & Funding
-- Research Equipment Grant (Submitted), April, 2026
-  Office of the Vice Chancellor for Research, The Texas A&M University System (A&M System)  
+- Research Equipment Grant (Submitted), Office of the Vice Chancellor for Research, The Texas A&M University System (A&M System), April 2026
 
 ---
 
