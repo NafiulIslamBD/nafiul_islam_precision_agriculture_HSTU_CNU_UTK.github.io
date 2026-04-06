@@ -109,7 +109,7 @@ Chungnam National University, South Korea
 ---
 
 ## Awards & Honors
-- Outstanding Graduate Student Award, International Conference on Precision Agriculture (ICPA), 2024 (https://www.ispag.org/ICPA/History/16_ICPA)  
+- Outstanding Graduate Student Award, International Conference on Precision Agriculture (ICPA), 2024 ("https://www.ispag.org/ICPA/History/16_ICPA")  
 
 ---
 
