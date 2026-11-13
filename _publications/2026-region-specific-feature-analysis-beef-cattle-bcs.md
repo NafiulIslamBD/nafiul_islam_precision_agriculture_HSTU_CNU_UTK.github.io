@@ -1,4 +1,3 @@
-
 ---
 title: "Region-specific feature analysis for automated body condition scoring of beef cattle using computer vision"
 collection: publications
