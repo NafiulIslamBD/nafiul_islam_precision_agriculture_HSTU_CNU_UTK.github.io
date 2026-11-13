@@ -1,4 +1,3 @@
-
 ---
 title: "Strategically timed UAS data acquisition for wheat yield prediction using explainable AI: A multi-year phenology-aligned study"
 collection: publications
